@@ -8,7 +8,7 @@ let balonDor = {
     },
     '2000': {
         name: 'Luís Figo',
-        goals: '',
+        goals: '35',
         assists: '',
         appearance: '',
         img: '',
